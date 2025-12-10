@@ -1,1 +1,1 @@
-## Willkommen auf dem GitHub-Repository der Schäffer Maschinenfabrik 🙌
+## Willkommen auf dem GitHub-Repository der Schäffer Maschinenfabrik 🙌🚜

@@ -1,4 +1,4 @@
 ## Willkommen auf dem GitHub-Repository der Schäffer Maschinenfabrik 🙌🚜
 Schäffer zählt zu den führenden Herstellern von kompakten Hof-, Rad- und Teleradladern, die in der Landwirtschaft, dem Garten- und Landschaftsbau, in der Bauwirtschaft und in der Industrie eingesetzt werden. Vom kompakten Hoflader mit besonders geringer Bauhöhe bis hin zum knickgelenkten Teleradlader mit 12 Tonnen Einsatzgewicht zählen wir zu den führenden Anbietern von knickgelenkten Ladern in Europa. Ein umfassendes Werkzeugprogramm macht die Maschinen äußerst flexibel im Einsatz. Mit über 480 Mitarbeitern ist Schäffer bekannt als innovatives, flexibles und international agierendes Unternehmen mit einer hochwertigen Produktpalette.
 
-Auf unserem GitHub-Account findest du unsere Entwicklungen im Bereich von Open-Source-Software
+Auf unserem GitHub-Account findest du unsere Entwicklungen im Bereich von Open-Source-Software.
